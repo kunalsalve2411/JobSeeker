@@ -9,7 +9,7 @@ function Footer() {
 
     return (
         <footer className={isAuthorized ? "footerShow" : "footerHide"}>
-            <div>&copy; All Rights Reserved By Kunal & Euu</div>
+            <div>&copy; All Rights Reserved By Kunal & Nikhil </div>
             <div>
                 <Link to={'/'} target='_blank'><FaFacebook /></Link>
                 <Link to={'/'} target='_blank'><FaYoutube /></Link>
